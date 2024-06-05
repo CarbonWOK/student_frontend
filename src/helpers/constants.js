@@ -1,0 +1,17 @@
+export const topicsCourses = [
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "Git",
+  "Node.js",
+  "Express",
+  "React",
+  "MongoDB",
+  "GraphQL",
+  "Swift",
+  "React Native",
+  "Firebase",
+  "Unity",
+  "C# Programming",
+  "3D Modeling",
+];
